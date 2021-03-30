@@ -249,7 +249,7 @@ xcb_pixmap_t draw_image(uint32_t *resolution) {
 
         cairo_text_extents_t time_extents;
         double time_x, time_y;
-        //cairo_select_font_face(ctx, "sans-serif", CAIRO_FONT_SLANT_NORMAL, CAIRO_FONT_WEIGHT_NORMAL);
+        cairo_select_font_face(ctx, "Inconsolata ExtraLight", CAIRO_FONT_SLANT_NORMAL, CAIRO_FONT_WEIGHT_NORMAL);
 
         cairo_text_extents(ctx, timetext, &time_extents);
         time_x = BUTTON_CENTER - ((time_extents.width / 2) + time_extents.x_bearing);
