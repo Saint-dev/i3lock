@@ -17,21 +17,10 @@ This is my own copy of i3lock, consisting of the following tweaks:
 
 ## Screenshots
 
-#### No configuration specified
-![Default](/images/defaultlock.png?raw=true "")
-#### Error Color
-![Error](/images/defaulterror.png?raw=true "")
 
-### Example Configuration
+![Default](/images/example.png?raw=true "")
 
-#### Idle
-![Idle state](/images/lockscreen.png?raw=true "")
-#### Key Press
-![On key press](/images/lockscreenkeypress.png?raw=true "")
-#### Escape/Backspace
-![On escape or backspace](/images/lockscreenesc.png?raw=true "")
 
-Background in above screenshots can be found in images/background.jpg
 
 <p>
 
